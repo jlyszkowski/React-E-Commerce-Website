@@ -3,7 +3,7 @@ import React from "react";
 import Book from "./ui/Book";
 import { books } from "../data";
 
-function Featured() {
+const Featured = () => {
   console.log(books);
   console.log();
   return (
