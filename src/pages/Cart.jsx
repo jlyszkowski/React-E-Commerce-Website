@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import EmptyCart from "../assets/empty_cart.svg";
+import EmptyCart from "../assets/undraw_empty-cart_574u.svg";
 
 const Cart = ({ cart, changeQuantity, removeItem }) => {
   const total = () => {

@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import LibraryLogo from "../assets/Library.svg";
+import LibraryLogo from "../assets/Library-2.svg";
 
 const Nav = ({ numberOfItems }) => {
   function openMenu() {
